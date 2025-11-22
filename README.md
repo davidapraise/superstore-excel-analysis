@@ -72,6 +72,7 @@ Key Findings
 About the Author  
 **Davida Praise Sofela**  
 Aspiring Data Analyst | Excel | SQL | Geospatial Analysis  
-[LinkedIn](www.linkedin.com/in/davidasofela) | [GitHub](https://github.com/davidapraise)  
+LinkedIn: www.linkedin.com/in/davidasofela
+[GitHub](https://github.com/davidapraise)  
 
 ---
